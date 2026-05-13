@@ -1,0 +1,170 @@
+{
+  "identity": {
+    "full_name": "Ali Shehzan Punjwani",
+    "preferred_name": "ASP / STARxSS",
+    "gender": "male",
+    "date_of_birth": "2005-09-25",
+    "age": 20,
+    "country": "Pakistan",
+    "city": "Karachi, Sindh",
+    "languages": [
+      "Urdu",
+      "English",
+      "French",
+      "German"
+    ],
+    "religion": "Islam",
+    "personality_type": "Introvert",
+    "motto": "Master your field so deeply that competition loses confidence",
+    "primary_goal": "Become a CISO"
+  },
+  "contact": {
+    "email_primary": "shehzansohail5637@gmail.com",
+    "email_secondary": "ali.shehzan.punjwani@gmail.com",
+    "github": "https://github.com/ali-shehzan-punjwani",
+    "linkedin": "https://www.linkedin.com/in/ali-shehzan-punjwani/",
+    "portfolio": "https://ali-shehzan-punjwani-portfolio.s3.us-east-1.amazonaws.com/Portfolio_/index.html",
+    "twitter": "https://x.com/Ali_Shehzan_",
+    "instagram": "https://www.instagram.com/shehzan.sohail5637_/"
+  },
+  "family": {
+    "father": "Sohail Abbas Punjwani",
+    "mother": "Mehwish Sohail Punjwani",
+    "brother": "Ali Faizan Punjwani and Ali Shayan Punjwani",
+    "best_friend": "Yusra Habib",
+    "family_expectation": "Become a successful and respected professional",
+    "brother_profession": "Advocate"
+  },
+  "education": {
+    "degree": "Bachelor of Computer Science",
+    "university": "Iqra University",
+    "current_semester": 6,
+    "cgpa": 3.57,
+    "favorite_subject": "Information Security",
+    "weak_subject": "Probability and Statistics",
+    "dream_university": "MIT",
+    "certifications_completed": [
+      "Australian University Certification",
+      "American University Certification"
+    ],
+    "certifications_planned": [
+      "CCSP",
+      "CISSP"
+    ],
+    "scholarship": "Merit scholarship at Iqra University"
+  },
+  "career": {
+    "dream_companies": [
+      "Microsoft",
+      "Google",
+      "Amazon"
+    ],
+    "target_role": "CISO / CIO",
+    "government_goal": "CSS \u2192 BPS-17 Officer",
+    "preferred_countries": [
+      "Germany",
+      "France",
+      "Canada",
+      "USA"
+    ]
+  },
+  "skills": {
+    "python": "intermediate",
+    "linux": "intermediate",
+    "networking": "advanced",
+    "aws": "intermediate",
+    "docker": "intermediate",
+    "kubernetes": "intermediate",
+    "siem_tools": "advanced",
+    "web_security": "intermediate",
+    "cryptography": "intermediate",
+    "cloud_security": "intermediate",
+    "ai_ml": "beginner",
+    "devops": "intermediate",
+    "git_github": "beginner",
+    "api_development": "beginner",
+    "databases": "intermediate"
+  },
+  "projects": {
+    "best_projects": [
+      "Personal Finance Manager",
+      "STARFUMES Enterprise Network"
+    ],
+    "current_projects": [
+      "SIEM Tool",
+      "RAG Chatbot"
+    ],
+    "dream_project": "Cloud Security API",
+    "startup_idea": "Cybersecurity and Cloud Solutions Company"
+  },
+  "learning_style": {
+    "best_methods": [
+      "YouTube",
+      "Coursera",
+      "TryHackMe"
+    ],
+    "daily_study_hours": 10,
+    "preferred_style": [
+      "videos",
+      "practice labs",
+      "documentation"
+    ],
+    "strength": "Hands-on practical learning",
+    "weakness": "Probability and Statistics"
+  },
+  "personality": {
+    "traits": [
+      "strategic",
+      "disciplined",
+      "competitive",
+      "focused"
+    ],
+    "stress_handling": "goal-focused recovery",
+    "social_style": "private",
+    "leadership_style": "analytical and structured",
+    "motivation": "progress and achievement tracking",
+    "confidence_trigger": "visible progress and success"
+  },
+  "daily_life": {
+    "hobbies": [
+      "Cycling",
+      "Pushups",
+      "Planks",
+      "Listening Nohay"
+    ],
+    "sleep_pattern": "early bird",
+    "favorite_food": [
+      "Tenders",
+      "Paratha"
+    ],
+    "favorite_city": "Toronto",
+    "favorite_country": "Canada",
+    "favorite_weather": "rainy and overcast",
+    "calm_trigger": "seeing progress and achievements"
+  },
+  "relationships": {
+    "status": "single",
+    "past_relationship": "Samar Fatima",
+    "relationship_values": [
+      "loyalty",
+      "respect",
+      "trust",
+      "understanding"
+    ],
+    "marriage_age_goal": 29,
+    "partner_traits_desired": [
+      "supportive",
+      "trustful"
+    ]
+  },
+  "future_vision": {
+    "retirement_plan": "never retire",
+    "life_goal": "impact people positively and help others",
+    "settlement_countries": [
+      "Canada",
+      "Germany",
+      "France"
+    ],
+    "success_definition": "freedom, respect, and mastery in cybersecurity"
+  }
+}
