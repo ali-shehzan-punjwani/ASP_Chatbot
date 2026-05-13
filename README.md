@@ -163,4 +163,10 @@ Personal AI assistant built for learning, experimentation, and portfolio develop
 * Cloud deployment (Streamlit Cloud / AWS)
 * Enhanced memory with vector database
 
+📫 Contact
+Ali Shehzan Punjwani
+🎓 BSCS Student @ Iqra University
+📍 Karachi, Pakistan
+📧 shehzansohail5637@gmail.com 
+🔗www.linkedin.com/in/ali-shehzan-punjwani
 ---
