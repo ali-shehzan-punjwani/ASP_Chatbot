@@ -60,7 +60,7 @@
       "Amazon"
     ],
     "target_role": "CISO / CIO",
-    "government_goal": "CSS \u2192 BPS-17 Officer",
+    "government_goal": "CSS → BPS-17 Officer",
     "preferred_countries": [
       "Germany",
       "France",
@@ -166,5 +166,279 @@
       "France"
     ],
     "success_definition": "freedom, respect, and mastery in cybersecurity"
+  },
+  "favorite_teacher": {
+    "name": "Hafiza Maliha Iqbal",
+    "title": "Ma'am",
+    "university": "Iqra University",
+    "subject": "Data Warehousing and Data Mining Lab",
+    "reason": "Favorite teacher"
+  },
+  "professional_identity": {
+    "personal_brand": "ASP",
+    "technology_brand": "STAR",
+    "mission": "Build secure, scalable, and intelligent systems while helping people stay safe online",
+    "professional_focus": [
+      "Cybersecurity",
+      "Cloud Security",
+      "DevSecOps",
+      "AI Security"
+    ]
+  },
+  "tryhackme_progress": {
+    "platform": "TryHackMe",
+    "current_path": "Cyber Security 101",
+    "completed_paths": [
+      "DevSecOps",
+      "SOC Level 1 Analyst",
+      "Cybersecurity in the Cloud"
+    ]
+  },
+  "technical_strengths": {
+    "strongest_areas": [
+      "Networking",
+      "Security Operations",
+      "Cloud Fundamentals",
+      "Threat Detection",
+      "System Administration"
+    ],
+    "improving_areas": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Advanced Cloud Architecture",
+      "Infrastructure as Code"
+    ]
+  },
+  "leadership_goals": {
+    "executive_target": "Chief Information Security Officer",
+    "leadership_style": "Data-driven and structured",
+    "management_focus": [
+      "Risk Management",
+      "Security Governance",
+      "Team Leadership",
+      "Strategic Planning"
+    ]
+  },
+  "international_goals": {
+    "study_abroad": [
+      "Germany",
+      "France",
+      "Canada"
+    ],
+    "objective": "Higher education, professional growth, and long-term settlement",
+    "dream_outcome": "Global cybersecurity leader"
+  },
+  "fitness": {
+    "activities": [
+      "Cycling",
+      "Pushups",
+      "Planks"
+    ],
+    "purpose": "Physical fitness, discipline, and consistency"
+  },
+  "content_creation": {
+    "platform": "Cyber_Star",
+    "focus": [
+      "Cybersecurity Awareness",
+      "Online Safety",
+      "Digital Security Tips",
+      "Cyber Threat Education"
+    ]
+  },
+  "values": {
+    "core_values": [
+      "Discipline",
+      "Continuous Learning",
+      "Integrity",
+      "Respect",
+      "Responsibility"
+    ],
+    "work_ethic": "Consistent improvement through structured learning and practical implementation"
+  },
+  "dream_certifications": {
+    "security": [
+      "CISSP",
+      "CCSP",
+      "Security+",
+      "AWS Security Specialty"
+    ]
+  },
+  "future_company": {
+    "name_prefix": "STAR",
+    "industry": [
+      "Cybersecurity",
+      "Cloud Solutions",
+      "AI Security"
+    ],
+    "vision": "Develop innovative security products and services under the STAR ecosystem"
+  },
+  "favorite_quote": {
+    "text": "Master your field so deeply that competition loses confidence"
+  },
+  "long_term_projects": {
+    "products": [
+      "STAR Sentinel",
+      "STAR Log Analyzer",
+      "STAR AI Assistant",
+      "Cloud Security API Platform"
+    ]
+  },
+  "academic_performance": {
+    "recent_semester_gpa": 3.81,
+    "current_cgpa": 3.57,
+    "scholarship_status": "Merit Scholarship Recipient"
+  },
+  "cybersecurity_roadmap": {
+    "career_progression": [
+      "SOC Level 1 Analyst",
+      "Cloud Security Analyst",
+      "Cloud Security Engineer",
+      "Cloud Security Architect",
+      "Chief Information Security Officer (CISO)"
+    ],
+    "specialization": "Cloud Security",
+    "long_term_focus": [
+      "Cloud Security",
+      "DevSecOps",
+      "AI Security",
+      "Security Operations",
+      "Security Leadership"
+    ]
+  },
+  "current_learning_plan_2026": {
+    "cloud": [
+      "AWS Cloud Practitioner",
+      "AWS Cloud Support Associate"
+    ],
+    "devops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins"
+    ],
+    "programming": [
+      "Python",
+      "Golang",
+      "Bash Scripting"
+    ],
+    "security": [
+      "AWS Security",
+      "DevSecOps",
+      "Cloud Security"
+    ]
+  },
+  "star_ecosystem": {
+    "brand_name": "STAR",
+    "projects": [
+      "STARFUMES Enterprise Network",
+      "STARFUMES Webpage",
+      "STARFUMES Database",
+      "Cyber_Star",
+      "ASP Chatbot",
+      "STAR Sentinel",
+      "STAR Log Analyzer",
+      "STAR ChatBot AI Cybersecurity Assistant"
+    ],
+    "future_goal": "Build a STAR-branded technology and cybersecurity company"
+  },
+  "academic_interests": {
+    "favorite_courses": [
+      "Information Security",
+      "Network Security",
+      "Cryptography",
+      "Cloud Computing and Virtualization",
+      "Routing and Switching",
+      "Information System Audit"
+    ]
+  },
+  "ai_security_interests": {
+    "topics": [
+      "AI Security",
+      "Machine Learning Security",
+      "RAG Systems",
+      "Anomaly Detection"
+    ]
+  },
+  "planned_projects": {
+    "upcoming": [
+      "RAG-Based Chatbot",
+      "Mini SOC Simulator",
+      "Cloud Security API",
+      "AI Threat Monitoring and Incident Response Platform"
+    ]
+  },
+  "skills_to_avoid": [
+    "WordPress",
+    "Game Development",
+    "Graphics and Animation",
+    "AR/VR Development",
+    "FPGA Development",
+    "Embedded Systems",
+    "Robotics",
+    "Mobile App Development"
+  ],
+  "semester_6_spring_2026": {
+    "semester": 6,
+    "term": "Spring 2026",
+    "courses": [
+      {
+        "course_code": "CS414",
+        "course_title": "Data Warehousing & Data Mining (Lab)",
+        "faculty": "Hafiza Maliha Iqbal",
+        "day": "Monday",
+        "time": "08:30 - 11:20"
+      },
+      {
+        "course_code": "CSC431",
+        "course_title": "Parallel and Distributed Computing",
+        "faculty": "Dr. Ali Akbar Siddique",
+        "day": "Monday",
+        "time": "11:35 - 12:50"
+      },
+      {
+        "course_code": "CSC471",
+        "course_title": "Artificial Intelligence",
+        "faculty": "Dr. Akram Hussain",
+        "day": "Monday & Wednesday",
+        "time": "14:30 - 15:50"
+      },
+      {
+        "course_code": "CSC351",
+        "course_title": "Software Engineering",
+        "faculty": "Imdad Ali Shah",
+        "day": "Tuesday & Thursday",
+        "time": "13:00 - 14:20"
+      },
+      {
+        "course_code": "CSC471",
+        "course_title": "Artificial Intelligence (Lab)",
+        "faculty": "Rizwan Ahmed",
+        "day": "Friday",
+        "time": "08:30 - 11:20"
+      },
+      {
+        "course_code": "CS421",
+        "course_title": "Routing & Switching",
+        "faculty": "Muhammad Irfan",
+        "day": "Sunday",
+        "time": "08:30 - 11:20"
+      },
+      {
+        "course_code": "CS421",
+        "course_title": "Routing & Switching (Lab)",
+        "faculty": "Naseer Ahmed",
+        "day": "Sunday",
+        "time": "11:35 - 14:20"
+      },
+      {
+        "course_code": "CS423",
+        "course_title": "Cloud Computing & Virtualization",
+        "faculty": "Asfand Yar",
+        "day": "Sunday",
+        "time": "14:30 - 17:20"
+      }
+    ]
   }
 }
