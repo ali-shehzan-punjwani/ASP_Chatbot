@@ -31,7 +31,8 @@
     "father": "Sohail Abbas Punjwani",
     "mother": "Mehwish Sohail Punjwani",
     "brother": "Ali Faizan Punjwani and Ali Shayan Punjwani",
-    "best_friend": "Yusra Habib",
+    "best_friend1": "Yusra Habib",
+    "best_friend2": "Romesa",
     "family_expectation": "Become a successful and respected professional",
     "brother_profession": "Advocate"
   },
@@ -440,5 +441,294 @@
         "time": "14:30 - 17:20"
       }
     ]
+  },
+  "academic_record": {
+  "student_name": "Ali Shehzan Sohail Abbas",
+  "student_id": "67158",
+  "degree": "Bachelor of Computer Science",
+  "university": "Iqra University",
+  "current_cgpa": 3.57,
+  "courses_completed": [
+    {
+      "course_code": "CSC111",
+      "course_title": "Introduction to Information & Communication Technology",
+      "credit_hours": 3,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC101",
+      "course_title": "Applied Physics",
+      "credit_hours": 3,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC111",
+      "course_title": "Introduction to Information & Communication Technology Lab",
+      "credit_hours": 1,
+      "grade": "C+",
+      "grade_points": 2.5
+    },
+    {
+      "course_code": "HMT231",
+      "course_title": "Pakistan Studies",
+      "credit_hours": 2,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC102",
+      "course_title": "Calculus & Analytical Geometry",
+      "credit_hours": 3,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC121",
+      "course_title": "Digital Logic Design",
+      "credit_hours": 3,
+      "grade": "B",
+      "grade_points": 3.0
+    },
+    {
+      "course_code": "CSC101",
+      "course_title": "Applied Physics Lab",
+      "credit_hours": 1,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "HUM113",
+      "course_title": "Sociology",
+      "credit_hours": 3,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC131",
+      "course_title": "Programming Fundamentals",
+      "credit_hours": 3,
+      "grade": "B",
+      "grade_points": 3.0
+    },
+    {
+      "course_code": "CSC131",
+      "course_title": "Programming Fundamentals Lab",
+      "credit_hours": 1,
+      "grade": "C+",
+      "grade_points": 2.5
+    },
+    {
+      "course_code": "CSC121",
+      "course_title": "Digital Logic Design Lab",
+      "credit_hours": 1,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC103",
+      "course_title": "Multivariate Calculus",
+      "credit_hours": 3,
+      "grade": "B",
+      "grade_points": 3.0
+    },
+    {
+      "course_code": "HUM111",
+      "course_title": "Functional English",
+      "credit_hours": 3,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC221",
+      "course_title": "Computer Organization & Assembly Language",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC221",
+      "course_title": "Computer Organization & Assembly Language Lab",
+      "credit_hours": 1,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "HUM232",
+      "course_title": "Ethics & Social Responsibility",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC231",
+      "course_title": "Object Oriented Programming",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC201",
+      "course_title": "Linear Algebra & Differential Equations",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC231",
+      "course_title": "Object Oriented Programming Lab",
+      "credit_hours": 1,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "HUM231",
+      "course_title": "Communication Skills",
+      "credit_hours": 3,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC241",
+      "course_title": "Discrete Structures",
+      "credit_hours": 3,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "CSC232",
+      "course_title": "Data Structures & Algorithms",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC232",
+      "course_title": "Data Structures & Algorithms Lab",
+      "credit_hours": 1,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC222",
+      "course_title": "Operating Systems",
+      "credit_hours": 3,
+      "grade": "B",
+      "grade_points": 3.0
+    },
+    {
+      "course_code": "CSC222",
+      "course_title": "Operating Systems Lab",
+      "credit_hours": 1,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "SSC231",
+      "course_title": "World History",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC202",
+      "course_title": "Probability & Statistics",
+      "credit_hours": 3,
+      "grade": "C+",
+      "grade_points": 2.5
+    },
+    {
+      "course_code": "BUS231",
+      "course_title": "Financial Accounting Principles",
+      "credit_hours": 3,
+      "grade": "B",
+      "grade_points": 3.0
+    },
+    {
+      "course_code": "HUM241",
+      "course_title": "World Literature",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC333",
+      "course_title": "Introduction to Python",
+      "credit_hours": 1,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC361",
+      "course_title": "Data Communication & Computer Networks",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC331",
+      "course_title": "Database Management Systems Lab",
+      "credit_hours": 1,
+      "grade": "B+",
+      "grade_points": 3.5
+    },
+    {
+      "course_code": "HUM121",
+      "course_title": "Academic & Professional Writing",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "HUM112",
+      "course_title": "Personal Development",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC332",
+      "course_title": "Design & Analysis of Algorithms",
+      "credit_hours": 3,
+      "grade": "A",
+      "grade_points": 4.0
+    },
+    {
+      "course_code": "CSC341",
+      "course_title": "Theory of Automata",
+      "credit_hours": 3,
+      "grade": "B",
+      "grade_points": 3.0
+    },
+    {
+      "course_code": "CSC361",
+      "course_title": "Data Communication & Computer Networks Lab",
+      "credit_hours": 1,
+      "grade": "A",
+      "grade_points": 4.0
+    }
+  ],
+  "academic_summary": {
+    "cgpa": 3.57,
+    "strongest_subjects": [
+      "Computer Networks",
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Computer Organization",
+      "Python Programming",
+      "Design and Analysis of Algorithms"
+    ],
+    "improvement_areas": [
+      "Probability and Statistics"
+    ],
+    "academic_strengths": [
+      "Networking",
+      "Programming",
+      "Algorithms",
+      "Computer Systems",
+      "Technical Writing"
+    ]
   }
+}
 }
